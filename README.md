@@ -1,16 +1,14 @@
 ### Hi there 👋
+Name: Anwar Kunnath.
 
-<!--
-**4anwar/4anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 DevOps @ takamol.com.sa
+🌱 I’m learning CKS
+🎆 Started my career in 1997. Time flies. 20+ years of work experience.
+📫 How to reach me: https://www.linkedin.com/in/anwarkunnath/
+🏢 Currently in Riyadh 🇸🇦, from India 🇮🇳
+Certifications:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certified Kubernetes Administrator (CKA)
+Certified Openstack Administrator (COA)
+Cloudera Certified Administrator for APache Hadoop (CCAH)
+& ITIL, RHCE, CCNA, CCNP, MCSE, SGFWA, SGSMCA
