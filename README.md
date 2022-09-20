@@ -8,7 +8,7 @@ Name: Anwar Kunnath.
 🏢 Currently in Riyadh 🇸🇦, from India 🇮🇳
 Certifications:
 
-Certified Kubernetes Administrator (CKA)
-Certified Openstack Administrator (COA)
-Cloudera Certified Administrator for APache Hadoop (CCAH)
-& ITIL, RHCE, CCNA, CCNP, MCSE, SGFWA, SGSMCA
+Certified Kubernetes Administrator (CKA),
+Certified Openstack Administrator (COA),
+Cloudera Certified Administrator for APache Hadoop (CCAH),
+ITIL, RHCE, CCNA, CCNP, MCSE, SGFWA, SGSMCA
